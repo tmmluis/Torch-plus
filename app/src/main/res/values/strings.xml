@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Torch+</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="flash_off">Flashlight mode: Off</string>
+    <string name="button_off">Off</string>
+    <string name="button_torch">Torch</string>
+    <string name="button_flasher">Flasher</string>
+    <string name="button_sos">SOS</string>
+    <string name="button_strobe">Strobe</string>
+</resources>
